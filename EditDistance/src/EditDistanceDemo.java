@@ -1,5 +1,5 @@
 /**
- * Demo application which calculates the edit distance between to strings.
+ * Demo application with GUI which calculates the edit distance between two input strings.
  *
  * @author Bart Bussmann
  * @since 3-3-2017
